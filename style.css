@@ -1,5 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@500&family=Nunito&display=swap');
 html {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Exo 2', sans-serif;
   color: white;
   background-color: rgb(20, 20, 20);
   margin-left: 25px;
@@ -75,7 +76,9 @@ button:active {
     margin-bottom: 40px;
   }
   iframe {
-    width: 400px;
-    height: 225px;
+    border: solid white 30px;
+    border-radius: 50px;
+    width: 800px;
+    height: 450px;
   }
 }
